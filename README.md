@@ -249,3 +249,5 @@ static ZZYLocationSimulator * sharedInstance = nil;
 至此，代码已经结束，对于模拟iOS的GPS定位器便可以运行查看，运行效果如下图：
 
 ![这里写图片描述](http://img.blog.csdn.net/20160222102847332)
+
+coding...
